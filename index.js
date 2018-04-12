@@ -8,7 +8,7 @@ var T = new Twit({
 
 let retweet = function() {
     let params = {
-        q: '#developer, #jobs',
+        q: '#developer, #jobs, #DelhiPolice, #MumbaiPolice, #wbPolice, #hydcitypolice, #ThaneCityPolice',
         result_type: 'mixed',
         lang: 'en'
     }
